@@ -1,2 +1,0 @@
-# stripes
-sass
